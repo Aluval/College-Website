@@ -1,0 +1,20 @@
+body{
+    background-image: url('../IMAGES/geccollege.jpg');
+    background-size: cover;
+}
+.p1{
+    padding:10px;
+    font-size: 20px;
+}
+.imgfr{
+    float: bottom;
+    border:10px solid;
+    margin:10px;
+
+}
+.mytitle{
+    padding: 10px;
+    text-align: right;
+    margin:0;
+    
+}

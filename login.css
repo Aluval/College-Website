@@ -1,0 +1,55 @@
+*{
+    margin: 10px;
+
+}
+.row .col1 img{
+    width: 90%;
+}
+.row .col1,.row .col2{
+    float: left;
+    width:40%;
+
+}
+.img{
+    width: 100%;
+    border:5px,solid white;
+    outline-color: rgb(3, 10, 63);
+    border-color:rgb(123, 112, 244);
+    outline-style: double;
+    outline-width: 2px;
+
+}
+.row{
+    margin-top: 10px;
+    margin-right: 20px;
+}
+.mb3{
+    margin-bottom: 8px;
+}
+.form-control{
+    width: 100%;
+    border-radius: 5px;
+    font-size:20px;
+}
+.alert{
+    padding: 8px;
+    margin-bottom: 8px;
+    background-color: beige;
+    border-radius:3px;
+    text-align: center;
+}
+.btn{
+    border-radius: 10px rgb(248, 177, 177);
+    border-radius: 4px;
+    margin: 10px;
+    padding:10px;
+
+}
+.btn-danger{
+    background-color: rgb(63, 3, 60);
+    color:cornsilk;
+    border-radius: 4px;
+    margin: 10px;
+    padding:10px;
+
+}

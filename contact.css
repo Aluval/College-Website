@@ -1,0 +1,63 @@
+body{
+    background-image: url('../IMAGES/geccollege.jpg');
+    background-size: cover;
+}
+*{
+    margin: 10px;
+
+}
+.row .col1 img{
+    width: 90%;
+}
+.row .col1,.row .col2{
+    float: left;
+    width:40%;
+
+}
+.img{
+    width: 100%;
+    border:5px,solid white;
+    outline-color: rgb(56, 3, 69);
+    border-color:rgb(123, 112, 244);
+    outline-style: double;
+    outline-width: 2px;
+
+}
+.row{
+    margin-top: 10px;
+    margin-right: 20px;
+}
+.mb3{
+    margin-bottom: 8px;
+}
+.form-control{
+    width: 100%;
+    border-radius: 5px;
+    font-size:20px;
+}
+.alert{
+    padding: 8px;
+    margin-bottom: 8px;
+    background-color:beige;
+    border-radius:3px;
+    text-align: center;
+}
+.btn-danger{
+    background-color: rgb(216, 8, 231);
+    color:cornsilk;
+    border-radius: 4px;
+    margin: 10px;
+    padding:10px;
+    position:center;
+
+}
+.p1{
+        background-color:rgb(96, 95, 93);
+        padding:10px;
+        font-size: 15px;
+}
+.mytitle{
+    padding: 10px;
+    text-align: right;
+    margin:0;
+}
